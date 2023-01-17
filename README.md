@@ -1,3 +1,5 @@
+[WIP]
+
 # Housekeeping
 
 * removed `RPC`
@@ -6,5 +8,5 @@
 
 # Packaging
 
-[ ] make .tar.xz
-[ ] make .bz2
+* make .tar.xz
+* make .bz2
